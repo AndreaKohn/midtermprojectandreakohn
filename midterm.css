@@ -1,0 +1,49 @@
+body {background-color: #F5EFEB}
+
+h1 {font-style: normal;
+    font-family: Verdana,Arial, Helvetica,sans-serif;
+    font-size: 40px;}
+
+
+
+
+h1 {text-align: center;}
+
+
+h3,p{font-family: Andale, Mono, monospace ;}
+         
+
+li a{
+    font-size: x-large;
+    color: black;
+    font-family:monospace;
+    margin: 30px;
+    list-style: none;}
+
+    
+
+small {font-family: times ;}
+
+p {line-height: 20px;
+  padding: 20px; }
+
+
+
+a {text-decoration: none;}
+a:visted {color:rgb(30, 30, 30);}
+a:link {color:rgb(260, 20, 260)}
+a:hover {background-color: #4754A6 }
+a:active {color:navy; 
+          background-color:#B081A6 ;}
+
+#index,#history,#contemporary,#photographers {background-color:#B081A6 ;
+            margin:30px; 
+            width: 65%;
+            padding: 30px;
+            border: 5px solid black;}
+
+
+.specialg{color: #0C1761;}
+.specialr{color: #F5EFEB;
+        padding:4px;}
+
